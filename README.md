@@ -30,3 +30,4 @@ Telegram-бот для сотрудников с функциями:
 
 Примечание: Некоторые модули (filesender, report creator) реализованы для будущего масштабирования
 
+Ссылка на таблицу: https://docs.google.com/spreadsheets/d/1aRJLHwCpqbz5FdL70XVZ6xqqkYAUYHsZ_53wjc0ZGiU/edit?usp=sharing
